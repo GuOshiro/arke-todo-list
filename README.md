@@ -23,6 +23,10 @@ The project is divided into atoms, molecules, organisms, templates, and pages to
 - Install dependencies: `yarn`
 - Run the app: `yarn start`
 
+## Test
+
+- Run test: `yarn test`
+
 ## Atomic Design
 
 The project follows Atomic Design principles, dividing the UI into atoms, molecules, organisms, templates, and pages.
